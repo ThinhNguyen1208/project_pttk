@@ -1,0 +1,17 @@
+.pd-10px{
+    padding: 0px 30px ;
+}
+
+.fs-30px{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.btn-signin{
+    padding: 5px 20px ;
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    background-color: #52D0F0;
+    border: none;
+}
